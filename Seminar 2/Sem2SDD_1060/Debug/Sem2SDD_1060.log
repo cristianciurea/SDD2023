@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem2SDD_1060\Source.c(25,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem2SDD_1060\Source.c(27,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem2SDD_1060\Source.c(38,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem2SDD_1060\Source.c(39,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem2SDD_1060\Source.c(51,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\Desktop\SDD 2022\2023\Sem2SDD_1060\Source.c(60,1): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+  Sem2SDD_1060.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\2023\Sem2SDD_1060\Debug\Sem2SDD_1060.exe

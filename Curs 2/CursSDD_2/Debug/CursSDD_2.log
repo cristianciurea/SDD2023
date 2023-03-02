@@ -1,0 +1,8 @@
+﻿  lista_simpla.c
+C:\Users\Administrator\Desktop\SDD 2022\CursSDD_2\lista_simpla.c(22,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\CursSDD_2\lista_simpla.c(23,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\SDD 2022\CursSDD_2\lista_simpla.c(33,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\Desktop\SDD 2022\CursSDD_2\lista_simpla.c(34,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\Desktop\SDD 2022\CursSDD_2\lista_simpla.c(46,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\Desktop\SDD 2022\CursSDD_2\lista_simpla.c(55,1): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+  CursSDD_2.vcxproj -> C:\Users\Administrator\Desktop\SDD 2022\CursSDD_2\Debug\CursSDD_2.exe
