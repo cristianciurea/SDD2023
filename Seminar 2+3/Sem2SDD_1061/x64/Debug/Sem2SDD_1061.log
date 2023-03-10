@@ -1,0 +1,11 @@
+﻿  Source2.c
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(26,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(27,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(42,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(43,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(44,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(57,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(68,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(88,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\Source2.c(97,1): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+  Sem2SDD_1061.vcxproj -> C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1061\x64\Debug\Sem2SDD_1061.exe

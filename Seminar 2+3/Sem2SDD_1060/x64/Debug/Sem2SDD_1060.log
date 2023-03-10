@@ -1,0 +1,20 @@
+﻿  lista_dubla_liniara.c
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(25,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(27,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(42,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(43,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(44,19): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(59,22): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(71,26): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(83,26): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(84,26): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(80,1): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(81,1): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(97,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(100,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(105,21): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(117,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(135,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(146,20): warning C4133: '=': incompatible types - from 'nodls *' to 'nodls *'
+C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\lista_dubla_liniara.c(155,1): warning C4133: 'initializing': incompatible types - from 'nodls *' to 'nodls *'
+  Sem2SDD_1060.vcxproj -> C:\Users\Administrator\source\repos\SDD2023\Seminar 2\Sem2SDD_1060\x64\Debug\Sem2SDD_1060.exe

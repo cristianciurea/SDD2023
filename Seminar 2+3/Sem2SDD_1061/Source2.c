@@ -69,6 +69,26 @@ void traversareInvers(nodls* coada)
 	}
 }
 
+void salvareProdusePret(nodls* cap, produs* vect, int* nr)
+{
+	nodls* temp = cap;
+	while (temp != NULL)
+	{
+		if (temp->inf.pret < 9)
+		{
+			vect[*nr].cod = (int*)malloc(sizeof(int));
+			*(vect[*nr].cod) = *(temp->inf.cod);
+			vect[*nr].denumire = (char*)malloc((strlen(temp->inf.denumire) + 1) *
+				sizeof(char));
+			strcpy(vect[*nr].denumire, temp->inf.denumire);
+			vect[*nr].pret = temp->inf.pret;
+			vect[*nr].cantitate = temp->inf.cantitate;
+			(*nr)++;
+		}
+		temp = temp->next;
+	}
+}
+
 void dezalocare(nodls* cap)
 {
 	nodls* temp = cap;
@@ -111,5 +131,22 @@ void main()
 	fclose(f);
 	traversare(cap);
 	traversareInvers(coada);
+
+	//salvare in vector
+	printf("\n--------------------------------\n");
+	produs* vect = (produs*)malloc(n * sizeof(produs));
+	int nr = 0;
+	salvareProdusePret(cap, vect, &nr);
+	for (int i = 0; i < nr; i++)
+		printf("\nCod=%d, Denumire=%s, Pret=%5.2f, Cantitate=%5.2f",
+			*(vect[i].cod), vect[i].denumire, vect[i].pret,
+			vect[i].cantitate);
+	for (int i = 0; i < nr; i++)
+	{
+		free(vect[i].cod);
+		free(vect[i].denumire);
+	}
+	free(vect);
+
 	dezalocare(cap);
 }
